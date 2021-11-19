@@ -1,0 +1,337 @@
+eng_date,province,total
+Jul 2017,Bagmati,128
+Jul 2017,Gandaki,54
+Jul 2017,Karnali,19
+Jul 2017,Lumbini,74
+Jul 2017,Province 1,76
+Jul 2017,Province 2,48
+Jul 2017,Sudurpashchim,33
+Aug 2017,Bagmati,105
+Aug 2017,Gandaki,47
+Aug 2017,Karnali,18
+Aug 2017,Lumbini,77
+Aug 2017,Province 1,75
+Aug 2017,Province 2,52
+Aug 2017,Sudurpashchim,39
+Sep 2017,Bagmati,102
+Sep 2017,Gandaki,40
+Sep 2017,Karnali,20
+Sep 2017,Lumbini,93
+Sep 2017,Province 1,77
+Sep 2017,Province 2,42
+Sep 2017,Sudurpashchim,48
+Oct 2017,Bagmati,113
+Oct 2017,Gandaki,44
+Oct 2017,Karnali,23
+Oct 2017,Lumbini,92
+Oct 2017,Province 1,80
+Oct 2017,Province 2,36
+Oct 2017,Sudurpashchim,47
+Nov 2017,Bagmati,95
+Nov 2017,Gandaki,36
+Nov 2017,Karnali,18
+Nov 2017,Lumbini,90
+Nov 2017,Province 1,86
+Nov 2017,Province 2,38
+Nov 2017,Sudurpashchim,34
+Dec 2017,Bagmati,88
+Dec 2017,Gandaki,31
+Dec 2017,Karnali,13
+Dec 2017,Lumbini,80
+Dec 2017,Province 1,85
+Dec 2017,Province 2,34
+Dec 2017,Sudurpashchim,28
+Jan 2018,Bagmati,99
+Jan 2018,Gandaki,38
+Jan 2018,Karnali,13
+Jan 2018,Lumbini,60
+Jan 2018,Province 1,77
+Jan 2018,Province 2,49
+Jan 2018,Sudurpashchim,32
+Feb 2018,Bagmati,106
+Feb 2018,Gandaki,39
+Feb 2018,Karnali,15
+Feb 2018,Lumbini,77
+Feb 2018,Province 1,84
+Feb 2018,Province 2,50
+Feb 2018,Sudurpashchim,38
+Mar 2018,Bagmati,115
+Mar 2018,Gandaki,39
+Mar 2018,Karnali,18
+Mar 2018,Lumbini,83
+Mar 2018,Province 1,98
+Mar 2018,Province 2,49
+Mar 2018,Sudurpashchim,44
+Apr 2018,Bagmati,115
+Apr 2018,Gandaki,48
+Apr 2018,Karnali,22
+Apr 2018,Lumbini,97
+Apr 2018,Province 1,104
+Apr 2018,Province 2,54
+Apr 2018,Sudurpashchim,42
+May 2018,Bagmati,101
+May 2018,Gandaki,53
+May 2018,Karnali,21
+May 2018,Lumbini,114
+May 2018,Province 1,107
+May 2018,Province 2,56
+May 2018,Sudurpashchim,42
+Jun 2018,Bagmati,120
+Jun 2018,Gandaki,48
+Jun 2018,Karnali,26
+Jun 2018,Lumbini,122
+Jun 2018,Province 1,126
+Jun 2018,Province 2,81
+Jun 2018,Sudurpashchim,46
+Jul 2018,Bagmati,124
+Jul 2018,Gandaki,55
+Jul 2018,Karnali,30
+Jul 2018,Lumbini,113
+Jul 2018,Province 1,114
+Jul 2018,Province 2,75
+Jul 2018,Sudurpashchim,37
+Aug 2018,Bagmati,107
+Aug 2018,Gandaki,60
+Aug 2018,Karnali,27
+Aug 2018,Lumbini,77
+Aug 2018,Province 1,86
+Aug 2018,Province 2,44
+Aug 2018,Sudurpashchim,35
+Sep 2018,Bagmati,102
+Sep 2018,Gandaki,53
+Sep 2018,Karnali,25
+Sep 2018,Lumbini,87
+Sep 2018,Province 1,77
+Sep 2018,Province 2,38
+Sep 2018,Sudurpashchim,40
+Oct 2018,Bagmati,100
+Oct 2018,Gandaki,51
+Oct 2018,Karnali,17
+Oct 2018,Lumbini,109
+Oct 2018,Province 1,77
+Oct 2018,Province 2,40
+Oct 2018,Sudurpashchim,43
+Nov 2018,Bagmati,107
+Nov 2018,Gandaki,45
+Nov 2018,Karnali,14
+Nov 2018,Lumbini,101
+Nov 2018,Province 1,97
+Nov 2018,Province 2,57
+Nov 2018,Sudurpashchim,36
+Dec 2018,Bagmati,115
+Dec 2018,Gandaki,40
+Dec 2018,Karnali,12
+Dec 2018,Lumbini,77
+Dec 2018,Province 1,110
+Dec 2018,Province 2,55
+Dec 2018,Sudurpashchim,33
+Jan 2019,Bagmati,106
+Jan 2019,Gandaki,47
+Jan 2019,Karnali,12
+Jan 2019,Lumbini,78
+Jan 2019,Province 1,96
+Jan 2019,Province 2,42
+Jan 2019,Sudurpashchim,32
+Feb 2019,Bagmati,97
+Feb 2019,Gandaki,41
+Feb 2019,Karnali,20
+Feb 2019,Lumbini,96
+Feb 2019,Province 1,97
+Feb 2019,Province 2,56
+Feb 2019,Sudurpashchim,32
+Mar 2019,Bagmati,110
+Mar 2019,Gandaki,48
+Mar 2019,Karnali,18
+Mar 2019,Lumbini,82
+Mar 2019,Province 1,103
+Mar 2019,Province 2,75
+Mar 2019,Sudurpashchim,34
+Apr 2019,Bagmati,131
+Apr 2019,Gandaki,64
+Apr 2019,Karnali,24
+Apr 2019,Lumbini,79
+Apr 2019,Province 1,107
+Apr 2019,Province 2,78
+Apr 2019,Sudurpashchim,50
+May 2019,Bagmati,142
+May 2019,Gandaki,63
+May 2019,Karnali,29
+May 2019,Lumbini,99
+May 2019,Province 1,136
+May 2019,Province 2,73
+May 2019,Sudurpashchim,56
+Jun 2019,Bagmati,128
+Jun 2019,Gandaki,57
+Jun 2019,Karnali,25
+Jun 2019,Lumbini,122
+Jun 2019,Province 1,143
+Jun 2019,Province 2,81
+Jun 2019,Sudurpashchim,48
+Jul 2019,Bagmati,114
+Jul 2019,Gandaki,48
+Jul 2019,Karnali,21
+Jul 2019,Lumbini,118
+Jul 2019,Province 1,117
+Jul 2019,Province 2,75
+Jul 2019,Sudurpashchim,40
+Aug 2019,Bagmati,126
+Aug 2019,Gandaki,50
+Aug 2019,Karnali,18
+Aug 2019,Lumbini,101
+Aug 2019,Province 1,101
+Aug 2019,Province 2,64
+Aug 2019,Sudurpashchim,37
+Sep 2019,Bagmati,122
+Sep 2019,Gandaki,45
+Sep 2019,Karnali,24
+Sep 2019,Lumbini,101
+Sep 2019,Province 1,92
+Sep 2019,Province 2,55
+Sep 2019,Sudurpashchim,39
+Oct 2019,Bagmati,118
+Oct 2019,Gandaki,36
+Oct 2019,Karnali,25
+Oct 2019,Lumbini,90
+Oct 2019,Province 1,91
+Oct 2019,Province 2,46
+Oct 2019,Sudurpashchim,40
+Nov 2019,Bagmati,117
+Nov 2019,Gandaki,43
+Nov 2019,Karnali,21
+Nov 2019,Lumbini,89
+Nov 2019,Province 1,102
+Nov 2019,Province 2,52
+Nov 2019,Sudurpashchim,44
+Dec 2019,Bagmati,105
+Dec 2019,Gandaki,38
+Dec 2019,Karnali,19
+Dec 2019,Lumbini,78
+Dec 2019,Province 1,92
+Dec 2019,Province 2,50
+Dec 2019,Sudurpashchim,36
+Jan 2020,Bagmati,93
+Jan 2020,Gandaki,38
+Jan 2020,Karnali,17
+Jan 2020,Lumbini,75
+Jan 2020,Province 1,92
+Jan 2020,Province 2,44
+Jan 2020,Sudurpashchim,35
+Feb 2020,Bagmati,86
+Feb 2020,Gandaki,44
+Feb 2020,Karnali,18
+Feb 2020,Lumbini,85
+Feb 2020,Province 1,97
+Feb 2020,Province 2,56
+Feb 2020,Sudurpashchim,39
+Mar 2020,Bagmati,98
+Mar 2020,Gandaki,44
+Mar 2020,Karnali,15
+Mar 2020,Lumbini,89
+Mar 2020,Province 1,111
+Mar 2020,Province 2,57
+Mar 2020,Sudurpashchim,45
+Apr 2020,Bagmati,117
+Apr 2020,Gandaki,54
+Apr 2020,Karnali,24
+Apr 2020,Lumbini,103
+Apr 2020,Province 1,127
+Apr 2020,Province 2,63
+Apr 2020,Sudurpashchim,53
+May 2020,Bagmati,135
+May 2020,Gandaki,61
+May 2020,Karnali,35
+May 2020,Lumbini,122
+May 2020,Province 1,127
+May 2020,Province 2,87
+May 2020,Sudurpashchim,57
+Jun 2020,Bagmati,196
+Jun 2020,Gandaki,73
+Jun 2020,Karnali,41
+Jun 2020,Lumbini,144
+Jun 2020,Province 1,165
+Jun 2020,Province 2,131
+Jun 2020,Sudurpashchim,68
+Jul 2020,Bagmati,204
+Jul 2020,Gandaki,81
+Jul 2020,Karnali,45
+Jul 2020,Lumbini,158
+Jul 2020,Province 1,162
+Jul 2020,Province 2,113
+Jul 2020,Sudurpashchim,75
+Aug 2020,Bagmati,138
+Aug 2020,Gandaki,66
+Aug 2020,Karnali,43
+Aug 2020,Lumbini,141
+Aug 2020,Province 1,122
+Aug 2020,Province 2,74
+Aug 2020,Sudurpashchim,77
+Sep 2020,Bagmati,126
+Sep 2020,Gandaki,52
+Sep 2020,Karnali,34
+Sep 2020,Lumbini,127
+Sep 2020,Province 1,106
+Sep 2020,Province 2,75
+Sep 2020,Sudurpashchim,68
+Oct 2020,Bagmati,130
+Oct 2020,Gandaki,44
+Oct 2020,Karnali,33
+Oct 2020,Lumbini,110
+Oct 2020,Province 1,105
+Oct 2020,Province 2,68
+Oct 2020,Sudurpashchim,60
+Nov 2020,Bagmati,124
+Nov 2020,Gandaki,45
+Nov 2020,Karnali,33
+Nov 2020,Lumbini,106
+Nov 2020,Province 1,114
+Nov 2020,Province 2,64
+Nov 2020,Sudurpashchim,58
+Dec 2020,Bagmati,114
+Dec 2020,Gandaki,48
+Dec 2020,Karnali,33
+Dec 2020,Lumbini,98
+Dec 2020,Province 1,110
+Dec 2020,Province 2,76
+Dec 2020,Sudurpashchim,47
+Jan 2021,Bagmati,116
+Jan 2021,Gandaki,55
+Jan 2021,Karnali,27
+Jan 2021,Lumbini,82
+Jan 2021,Province 1,119
+Jan 2021,Province 2,72
+Jan 2021,Sudurpashchim,41
+Feb 2021,Bagmati,110
+Feb 2021,Gandaki,49
+Feb 2021,Karnali,15
+Feb 2021,Lumbini,91
+Feb 2021,Province 1,129
+Feb 2021,Province 2,72
+Feb 2021,Sudurpashchim,46
+Mar 2021,Bagmati,121
+Mar 2021,Gandaki,47
+Mar 2021,Karnali,19
+Mar 2021,Lumbini,108
+Mar 2021,Province 1,120
+Mar 2021,Province 2,79
+Mar 2021,Sudurpashchim,49
+Apr 2021,Bagmati,141
+Apr 2021,Gandaki,59
+Apr 2021,Karnali,24
+Apr 2021,Lumbini,107
+Apr 2021,Province 1,128
+Apr 2021,Province 2,78
+Apr 2021,Sudurpashchim,52
+May 2021,Bagmati,146
+May 2021,Gandaki,55
+May 2021,Karnali,27
+May 2021,Lumbini,109
+May 2021,Province 1,148
+May 2021,Province 2,87
+May 2021,Sudurpashchim,57
+Jun 2021,Bagmati,156
+Jun 2021,Gandaki,53
+Jun 2021,Karnali,35
+Jun 2021,Lumbini,146
+Jun 2021,Province 1,166
+Jun 2021,Province 2,112
+Jun 2021,Sudurpashchim,64
