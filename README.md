@@ -6,4 +6,4 @@ eng_date = Date
 
 province = Province
 
-total = Numer of Suicides
+suicide = Number of Suicides
